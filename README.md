@@ -1,4 +1,4 @@
-# 🤖 ROS 2 Lyrical — Hướng Dẫn Tiếng Việt Từ Số 0 Đến Robot
+# 🤖 ROS 2 Lyrical — Install
 
 > Tài liệu học ROS 2 Lyrical, chi tiết từng bước,
 > dành cho sinh viên và anh em mới bắt đầu làm robot.
