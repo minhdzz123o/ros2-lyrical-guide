@@ -45,7 +45,8 @@
 wsl --install
 ```
 
-3. **Đợi** hệ thống tải và cài đặt xong (mất khoảng 2-5 phút tùy mạng)
+3. **Đợi** hệ thống tải và cài đặt xong (mất khoảng 2-5 phút tùy mạng)<img width="1262" height="640" alt="Ảnh chụp màn hình 2026-09-22 224639" src="https://github.com/user-attachments/assets/a1568d19-68a9-4003-a340-800a81ae0973" /> Sẽ ra như này 
+
 
 4. **Khởi động lại máy tính** khi được yêu cầu
 
@@ -68,14 +69,14 @@ Lệnh này tự động thực hiện **3 việc** cùng lúc:
 
 1. Mở **Microsoft Store** trên Windows (nhấn phím `Win`, gõ `Microsoft Store`)
 
-2. Trong ô tìm kiếm, gõ: **`Ubuntu`**
+2. Trong ô tìm kiếm, gõ: **`Ubuntu`**<img width="1781" height="422" alt="image" src="https://github.com/user-attachments/assets/6417ddb1-0319-431c-b877-ee9a361c7b91" /> Đây là bản 26.04
+
 
 3. Bạn sẽ thấy nhiều phiên bản. **Chọn đúng phiên bản** phù hợp với ROS 2 bạn muốn cài:
 
 | Phiên bản Ubuntu | ROS 2 tương ứng | Chọn cái nào trên Store |
 |:---|:---|:---|
 | Ubuntu 26.04 | ROS 2 **Lyrical** | Tìm `Ubuntu 26.04 LTS` |
-| Ubuntu 24.04 | ROS 2 **Jazzy** | Tìm `Ubuntu 24.04 LTS` |
 
 4. Bấm nút **"Get"** hoặc **"Install"** → đợi tải xong (khoảng 500 MB - 1 GB)
 
@@ -86,6 +87,7 @@ Lệnh này tự động thực hiện **3 việc** cùng lúc:
 ## Bước 3: Thiết lập tài khoản Ubuntu lần đầu
 
 Khi mở Ubuntu lần đầu, hệ thống sẽ yêu cầu bạn tạo tài khoản:
+<img width="1475" height="572" alt="Ảnh chụp màn hình 2026-09-22 231101" src="https://github.com/user-attachments/assets/5f78e18a-d7a1-470b-a6cb-c3f7efbed4e9" />
 
 ```text
 Installing, this may take a few minutes...
