@@ -3,13 +3,6 @@
 > **ROS 2 — Từ Số 0 Đến Robot Thực Tế**  
 > *Dựa trên giáo trình gốc [ROS 2 Zero to Robot](https://pouya-mansournia.github.io/ros2-zero-to-robot/02-development-environment.html) — Tác giả: Pouya Mansournia*
 
-| | |
-|---|---|
-| **Đối tượng** | Từ người mới bắt đầu đến kỹ sư robotics |
-| **Yêu cầu trước** | Chương 1 (Kiến trúc ROS 2) |
-| **Dự án xuyên suốt** | Robot ARCHO |
-| **Thời gian đọc** | 70 – 90 phút |
-
 ---
 
 > [!WARNING]
