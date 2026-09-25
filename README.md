@@ -18,8 +18,8 @@
 | 4 |  | 🔜 |
 
 ## 🚀 Bắt đầu từ đâu?
-
- 1.**Mới cài Ubuntu?** → Đọc [: Cài đặt ROS 2 Lyrical](./ros2-lyrical-install-guide.md) trước
- 2.**Đã cài xong ROS 2?** → Đọc [: Môi trường phát triển](./README-ROS2-Dev-Environment.md) để bắt tay vào code
+Anh em làm theo các bước ở trên nhé!!
+1. **Mới cài Ubuntu?** → Đọc [ Cài đặt ROS 2 Lyrical](./ros2-lyrical-install-guide.md) trước
+2. **Đã cài xong ROS 2?** → Đọc [ Môi trường phát triển](./README-ROS2-Dev-Environment.md) để bắt tay vào code
 
 ⭐ Nếu thấy hữu ích, hãy bấm **Star** để ủng hộ và giúp nhiều anh em khác tìm thấy tài liệu này!
