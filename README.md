@@ -12,9 +12,10 @@
 
 | Chương | Nội dung | Link |
 |:---:|---|:---:|
-| 0 | Cài đặt ROS 2 Lyrical trên Ubuntu 26.04 | [📖 Đọc](./ros2-lyrical-install-guide.md) |
-| 2 | Môi trường phát triển: Workspace, Package, Node đầu tiên | [📖 Đọc](./README-ROS2-Dev-Environment.md) |
-| 3 | Publisher & Subscriber *(đang viết...)* | 🔜 |
+| 1 | Cài đặt ROS 2 Lyrical trên Ubuntu 26.04 | [📖 Đọc](./ros2-lyrical-install-guide.md) |
+| 2 | Cài đặt ROS 2 Lyrical trên Ubuntu 26.04 | [📖 Đọc](./ros2-lyrical-install-guide.md) |
+| 3 | Môi trường phát triển: Workspace, Package, Node đầu tiên | [📖 Đọc](./README-ROS2-Dev-Environment.md) |
+| 4 |  | 🔜 |
 
 ## 🚀 Bắt đầu từ đâu?
 
