@@ -8,9 +8,9 @@
 - Ubuntu 26.04 (Resolute Ringtail)
 - ROS 2 Lyrical Desktop
 
-## 📚 Danh sách các chương
+## 📚 Danh sách các bước hướng dẫn 
 
-| Chương | Nội dung | Link |
+| Bước | Nội dung | Link |
 |:---:|---|:---:|
 | 1 | Cài WSL và ubuntu 26 | [📖 Đọc](./00-cai-dat-wsl-ubuntu.md) |
 | 2 | Cài đặt ROS 2 Lyrical trên Ubuntu 26.04 | [📖 Đọc](./ros2-lyrical-install-guide.md) |
